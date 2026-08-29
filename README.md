@@ -1,4 +1,4 @@
-# Stack-Class-OOP
+# Stack-Class-OOP.        
 
 A generic, high-performance Stack Data Structure implementation in C++, built on top of a custom-designed Template Doubly Linked List using Object-Oriented Programming (OOP) principles.
 
