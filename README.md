@@ -74,4 +74,6 @@ Compiler Support: GCC, Clang, MSVC
 ## 👨‍🏫 Instructor
 
 * Dr. Mohammed Abu-Hadhoud
-Programming Advices
+
+* Platform:
+📚 Programming Advices
